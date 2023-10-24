@@ -143,13 +143,13 @@ Unordered
 
 ![Logo](../logo.svg)
 
-![Logo](https://somewhere.com/logo.svg)
+![Logo](https://github.com/mBlomsterberg/github-cheatsheet/logo.svg)
 
 ![Logo](../logo.svg "hover text")
 
 ![Logo ref][1]
 
-[1]: ../logo.svg
+[1]: https://github.com/mBlomsterberg/github-cheatsheet/logo.svg
 
 
 <br/>

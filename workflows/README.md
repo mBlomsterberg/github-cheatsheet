@@ -7,9 +7,9 @@
     GitHub Workflow cheatsheet.
     <br />
     <br />
-    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflow/MATRIX.md">Matrix</a>
+    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflows/MATRIX.md">Matrix</a>
     ·
-    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/documentation/REUSABLE.md">Reusable</a>
+    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflows/REUSABLE.md">Reusable</a>
   </p>
   <br />
 </div>

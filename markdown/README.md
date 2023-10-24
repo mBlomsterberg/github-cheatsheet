@@ -134,22 +134,22 @@ Unordered
 ## Images
 ```md
 ![Logo](../logo.svg)
-![Logo](https://somewhere.com/logo.svg)
+![Logo](https://github.com/mBlomsterberg/github-cheatsheet/blob/main/logo.svg)
 ![Logo](../logo.svg "hover text")
 
 ![Logo ref][1]
-[1]: ../logo.svg
+[1]: https://github.com/mBlomsterberg/github-cheatsheet/blob/main/logo.svg
 ```
 
 ![Logo](../logo.svg)
 
-![Logo](https://github.com/mBlomsterberg/github-cheatsheet/logo.svg)
+![Logo](https://github.com/mBlomsterberg/github-cheatsheet/blob/main/logo.svg)
 
 ![Logo](../logo.svg "hover text")
 
-![Logo ref][1]
+![Logo ref][img]
 
-[1]: https://github.com/mBlomsterberg/github-cheatsheet/logo.svg
+[img]: https://github.com/mBlomsterberg/github-cheatsheet/blob/main/logo.svg
 
 
 <br/>

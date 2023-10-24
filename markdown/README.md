@@ -71,9 +71,11 @@ footnote[^mynote]
 [^mynote]: This is a custom label footnote
 ```
 footnote[^1]
+
 footnote[^mynote]
 
 [^1]: This is a footnote
+
 [^mynote]: This is a custom label footnote
 
 <br/>

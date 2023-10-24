@@ -6,6 +6,9 @@
       <img src="logo.png" width="200" height="200">
     </picture>
   </a>
+
+  <br/>
+
   <h3 align="center">GitHub Cheatsheet</h3>
 
   <p align="center">

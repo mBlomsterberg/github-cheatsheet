@@ -133,23 +133,23 @@ Unordered
 
 ## Images
 ```md
-![Logo](../logo.png)
-![Logo](https://somewhere.com/logo.png)
-![Logo](../logo.png "hover text")
+![Logo](../logo.svg)
+![Logo](https://somewhere.com/logo.svg)
+![Logo](../logo.svg "hover text")
 
 ![Logo ref][1]
-[1]: ../logo.png
+[1]: ../logo.svg
 ```
 
-![Logo](../logo.png)
+![Logo](../logo.svg)
 
-![Logo](https://somewhere.com/logo.png)
+![Logo](https://somewhere.com/logo.svg)
 
-![Logo](../logo.png "hover text")
+![Logo](../logo.svg "hover text")
 
 ![Logo ref][1]
 
-[1]: ../logo.png
+[1]: ../logo.svg
 
 
 <br/>

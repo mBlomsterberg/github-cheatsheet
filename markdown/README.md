@@ -150,7 +150,7 @@ Unordered
 ![Logo ref][img]
 
 [img]: https://github.com/mBlomsterberg/github-cheatsheet/blob/main/logo.svg
-
+img[alt=Logo] { height: 200px; width: 200px; }
 
 <br/>
 

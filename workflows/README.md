@@ -18,5 +18,26 @@
 
 # Workflows
 
+```yaml
+Name: Required Workflow name
 
+on: 
+  push: 
+    branch: branch-name
 
+jobs:
+  job_name: must be unique
+    runs-on: ubuntu-latest 
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - run: echo "hello world"
+
+    - name: optional name for step
+      run: echo "hello world"
+
+    - name: optional name for step
+      id: unique-id
+      run: curl -X GET www.google.com
+```

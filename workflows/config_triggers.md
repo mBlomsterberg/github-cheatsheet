@@ -1,5 +1,5 @@
 
-# GitHub Workflow configuration
+# Potential Trigger Configuration
 
 
 ## Triggers

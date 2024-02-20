@@ -6,7 +6,9 @@
   <p align="center">
     GitHub Workflow Config
     <br />
-    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflows/config.md">Configuration</a>
+    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflows/config_triggers.md">Triggers</a>
+    ·
+    <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflows/config_jobs.md">Jobs</a>
     ·
     <a href="https://github.com/mBlomsterberg/github-cheatsheet/blob/main/workflows/variables.md">Variables</a>
   </p>

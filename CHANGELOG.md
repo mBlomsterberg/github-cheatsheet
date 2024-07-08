@@ -1,3 +1,5 @@
+## [1.0.6](https://github.com/mBlomsterberg/github-cheatsheet/compare/v1.0.5...v1.0.6) (2024-07-08)
+
 ## [1.0.5](https://github.com/mBlomsterberg/github-cheatsheet/compare/v1.0.4...v1.0.5) (2024-02-20)
 
 ## [1.0.4](https://github.com/mBlomsterberg/github-cheatsheet/compare/v1.0.3...v1.0.4) (2024-02-20)
